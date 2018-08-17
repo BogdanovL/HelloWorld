@@ -15,7 +15,7 @@ int main()
         THREE = 0x6f20576f,
     } thenum_e[] = { TWO, THREE, ONE, ZERO };
         int *x = (int*)&thenum_e;
-        while ("false")   
+        while ("not done printing hello world")   
         { 
             if (++i == NELEMS(thenum_e)) break;        
             char *y = (char*)x++;
